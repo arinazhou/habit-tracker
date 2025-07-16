@@ -17,7 +17,7 @@ A clean, cute, and minimalistic weekly habit tracker built with React.
 
 ## Preview
 
-![screenshot](./preview.png)
+![screenshot]([./preview.png](https://github.com/arinazhou/habit-tracker/blob/main/public/preview.png))
 
 ## How to run
 
